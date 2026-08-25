@@ -1,0 +1,15 @@
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\bin\Debug\net10.0\BLL.deps.json
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\bin\Debug\net10.0\BLL.dll
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\bin\Debug\net10.0\BLL.pdb
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\bin\Debug\net10.0\DAL.dll
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\bin\Debug\net10.0\DAL.pdb
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.csproj.Up2Date
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.dll
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\refint\BLL.dll
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\BLL.pdb
+E:\Dotnet practice\Assignment\ZeroHunger\BLL\obj\Debug\net10.0\ref\BLL.dll

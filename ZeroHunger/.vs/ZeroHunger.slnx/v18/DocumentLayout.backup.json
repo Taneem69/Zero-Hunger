@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\services\\collectionrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\collectionrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\distributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\repositories\\distributionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\distributionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\repositories\\collectionrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\collectionrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\restaurantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\restaurantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\distributionrestaurantnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\distributionrestaurantnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\distributionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\distributionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\distributionemployeenamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\distributionemployeenamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\collectionrequestrestaurantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\collectionrequestrestaurantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\collectionrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\collectionrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\models\\collectionrequestemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\models\\collectionrequestemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\ef\\tables\\collectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\collectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|e:\\dotnet practice\\assignment\\zerohunger\\applayer\\controllers\\collectionrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\collectionrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\ef\\tables\\distribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\distribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|e:\\dotnet practice\\assignment\\zerohunger\\applayer\\controllers\\distributioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\distributioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|e:\\dotnet practice\\assignment\\zerohunger\\applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\repositories\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\repositories\\restaurantrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\restaurantrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|e:\\dotnet practice\\assignment\\zerohunger\\applayer\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|e:\\dotnet practice\\assignment\\zerohunger\\applayer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\ef\\tables\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|e:\\dotnet practice\\assignment\\zerohunger\\applayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\dotnet practice\\assignment\\zerohunger\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\RestaurantModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\RestaurantModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\RestaurantModel.cs",
+              "RelativeToolTip": "BLL\\Models\\RestaurantModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:28:17.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionRequestService.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\CollectionRequestService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CollectionRequestService.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\CollectionRequestService.cs",
+              "RelativeToolTip": "BLL\\Services\\CollectionRequestService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T14:00:39.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectionRequestRepo.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\CollectionRequestRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CollectionRequestRepo.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\CollectionRequestRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CollectionRequestRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFQAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:48:48.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistributionService.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\DistributionService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DistributionService.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\DistributionService.cs",
+              "RelativeToolTip": "BLL\\Services\\DistributionService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwE4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T14:05:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistributionRepo.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\DistributionRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\DistributionRepo.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\DistributionRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\DistributionRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:54:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\MappingProfile.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\MappingProfile.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T16:29:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\EmployeeModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "BLL\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:30:48.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DistributionRestaurantNameModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\DistributionRestaurantNameModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\DistributionRestaurantNameModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\DistributionRestaurantNameModel.cs",
+              "RelativeToolTip": "BLL\\Models\\DistributionRestaurantNameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:42:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DistributionModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\DistributionModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\DistributionModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\DistributionModel.cs",
+              "RelativeToolTip": "BLL\\Models\\DistributionModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:36:22.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DistributionEmployeeNameModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\DistributionEmployeeNameModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\DistributionEmployeeNameModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\DistributionEmployeeNameModel.cs",
+              "RelativeToolTip": "BLL\\Models\\DistributionEmployeeNameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:44:20.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CollectionRequestRestaurantModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\CollectionRequestRestaurantModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\CollectionRequestRestaurantModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\CollectionRequestRestaurantModel.cs",
+              "RelativeToolTip": "BLL\\Models\\CollectionRequestRestaurantModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:36:56.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollectionRequestModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\CollectionRequestModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\CollectionRequestModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\CollectionRequestModel.cs",
+              "RelativeToolTip": "BLL\\Models\\CollectionRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:32:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollectionRequestEmployeeModel.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\CollectionRequestEmployeeModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\CollectionRequestEmployeeModel.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Models\\CollectionRequestEmployeeModel.cs",
+              "RelativeToolTip": "BLL\\Models\\CollectionRequestEmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:40:22.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DistributionController.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\DistributionController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\DistributionController.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\DistributionController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\DistributionController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T14:26:57.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CollectionRequestController.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\CollectionRequestController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\CollectionRequestController.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\CollectionRequestController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\CollectionRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T14:19:32.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Distribution.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\EF\\Tables\\Distribution.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Distribution.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\EF\\Tables\\Distribution.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Distribution.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:55:31.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CollectionRequest.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\EF\\Tables\\CollectionRequest.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\CollectionRequest.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\EF\\Tables\\CollectionRequest.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\CollectionRequest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:23:15.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Program.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Program.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Program.cs",
+              "RelativeToolTip": "AppLayer\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T16:25:05.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\EmployeeRepo.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\EmployeeRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\EmployeeRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:45:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RestaurantRepo.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\RestaurantRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\RestaurantRepo.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Repositories\\RestaurantRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\RestaurantRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:39:45.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\RestaurantController.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T14:10:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T14:18:40.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\RestaurantService.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "BLL\\Services\\RestaurantService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:57:07.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "BLL\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:59:11.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\EF\\Tables\\Restaurant.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Restaurant.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\EF\\Tables\\Restaurant.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:44:37.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLayer\\appsettings.json",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\AppLayer\\appsettings.json",
+              "RelativeToolTip": "AppLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T16:22:01.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T16:18:37.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "E:\\Dotnet practice\\Assignment\\ZeroHunger\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T16:18:18.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
